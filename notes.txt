@@ -1,0 +1,32 @@
+// component props state usestate 
+
+// MObile ios android , windows 
+
+web apps  , native apps 
+
+html css and js 
+then we deply that on mobile 
+
+we apps which on mobile like an application but gives u feel of web screen 
+
+// it will not be able to access native features of mobile 
+
+// camera sound calls 
+
+// native 
+
+// react native allows you to create components the way react offers and internally it uses react native components unlike html div or other element tags 
+
+
+class Cake extends React.PureComponent {
+
+}
+
+varibable scope 
+arrow functions 
+callbacks 
+functions 
+this 
+closures 
+promises
+async/await
